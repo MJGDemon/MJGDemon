@@ -3,5 +3,5 @@
 ### Hi there 👋
 - 🔥 Learning algorithm and open source projects
 - 😶 上分
-- 🏢 Baidu
+- 🏢 yostar
 - 👦 Boy
